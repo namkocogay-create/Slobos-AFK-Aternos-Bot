@@ -7,7 +7,7 @@
   },
   "server": {
     "ip": "slobtest1.aternos.me",
-    "port": 27586,
+    "port": 29101,
     "version": "",
     "try-creative": false
   },
@@ -60,7 +60,7 @@
   "modules": {
     "avoidMobs": true,
     "combat": true,
-    "beds": false,
+    "beds": true,
     "chat": true,
     "console-commands": true
   },
